@@ -143,3 +143,14 @@ Zgodnie z Modułem 4:
 1. Użytkownik dostarcza: notatki/temat posta
 2. Asystent analizuje wszystkie pliki z bazy wiedzy
 3. Asystent generuje post + samoocenę
+
+---
+
+## Historia zmian
+
+**WAŻNE:** Po każdej sesji:
+1. Otwórz plik `memory/session_notes.md`
+2. Dodaj nową sekcję na GÓRZE pliku (nad poprzednimi sesjami)
+3. Format: `## 📅 Sesja #X - [data]`
+4. Opisz wszystkie wprowadzone zmiany, poprawki, nowe funkcjonalności
+5. Zachowaj format markdown z ikonami emoji dla czytelności
