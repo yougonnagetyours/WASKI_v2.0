@@ -18,10 +18,10 @@ Testujemy usługę automatyzacji procesów dla właścicieli agencji marketingow
 ### **Sekcja 1: Hero (Above the fold)**
 
 **Nagłówek:**
-"Doszedłeś do ściany? Przestań zatrudniać ludzi do gaszenia pożarów."
+"Więcej klientów, ale marża spada? Doszedłeś do ściany."
 
 **Podnagłówek:**
-"Bezpłatny audyt dla właścicieli agencji, którzy chcą skalować z 10 do 25 osób bez chaosu. Pokażę Ci, które procesy blokują Ci marżę i jak to zmienić w 30 minut."
+"Bezpłatny audyt dla właścicieli agencji. Pokażę Ci w 30 minut, które procesy zjadają Twoją marżę – i jak odzyskać kontrolę nad firmą."
 
 **CTA Button:**
 "Umów audyt (zostało 5 miejsc)"
