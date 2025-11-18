@@ -1,63 +1,61 @@
-# =� Historia sesji - Notatki i zmiany
+# 📂 Historia sesji - Notatki i zmiany
 
-## =� Sesja #1 - 2025-01-14
+## 📅 Sesja #1 - 2025-01-14
 
-### <� Cel sesji
-Wygenerowanie pomysB�w na posty LinkedIn na temat: "Wdra|anie automatyzacji i AI w firmach" z wykorzystaniem formatu "Czy wiedziaBe[, |e...?" (3 zaskakujce fakty + pytanie zachcajce do komentowania).
+### 🎯 Cel sesji
+Wygenerowanie pomysłów na posty LinkedIn na temat: "Wdrażanie automatyzacji i AI w firmach" z wykorzystaniem formatu "Czy wiedziałeś, że...?" (3 zaskakujące fakty + pytanie zachęcające do komentowania).
 
-###  Co zostaBo zrobione
+### ✅ Co zostało zrobione
 
 1. **Analiza bazy wiedzy**
-   - Sprawdzono aktualn faz: **Aucznik** (pocztek journey)
-   - Przeanalizowano idealn person: **Marek** (wBa[ciciel agencji performance, 12 os�b, chaos w procesach przy skalowaniu)
-   - Zapoznano si ze stylem komunikacji z folderu `MojStyl/`
+   - Sprawdzono aktualną fazę: **Łucznik** (początek journey)
+   - Przeanalizowano idealną personę: **Marek** (właściciel agencji performance, 12 osób, chaos w procesach przy skalowaniu)
+   - Zapoznano się ze stylem komunikacji z folderu `MojStyl/`
 
-2. **Generowanie pomysB�w na posty**
-   - Zaproponowano **10 pomysB�w na posty** dopasowanych do:
-     - Fazy Aucznik (perspektywa uczcego si, nie eksperta)
-     - Pain-point�w Marka (chaos, brak standaryzacji, koszty)
+2. **Generowanie pomysłów na posty**
+   - Zaproponowano **10 pomysłów na posty** dopasowanych do:
+     - Fazy Łucznik (perspektywa uczącego się, nie eksperta)
+     - Pain-pointów Marka (chaos, brak standaryzacji, koszty)
      - Naturalnego, konwersacyjnego stylu
-   - U|ytkownik wybraB pomysB #5: "Dlaczego zaczBem od mapowania proces�w, zanim kupiBem jakiekolwiek AI"
+   - Użytkownik wybrał pomysł #5: "Dlaczego zacząłem od mapowania procesów, zanim kupiłem jakiekolwiek AI"
 
 3. **Weryfikacja i research case study**
-   - **Problem #1:** Pierwszy przykBad (Sitech) dotyczyB SAP, nie AI - odrzucony przez u|ytkownika
-   - **Problem #2:** PrzykBad zakBadu farmaceutycznego byB anonimowy (brak weryfikowalno[ci)
-   - **Rozwizanie:** Znaleziono 3 weryfikowalne zr�dBa:
-     - **Exdrog** - firma stracona przetarg za 15,5 mln zB przez halucynacje AI
-     - **Raport MIT** - 95% wdro|eD AI koDczy si pora|k
-     - **Firma finansowa Warszawa** - skr�cenie procesu z 48h do 15 min przez przeprojektowanie procesu wok�B AI
+   - **Problem #1:** Pierwszy przykład (Sitech) dotyczył SAP, nie AI - odrzucony przez użytkownika
+   - **Problem #2:** Przykład zakładu farmaceutycznego był anonimowy (brak weryfikowalności)
+   - **Rozwiązanie:** Znaleziono 3 weryfikowalne źródła:
+     - **Exdrog** - firma straciła przetarg za 15,5 mln zł przez halucynacje AI
+     - **Raport MIT** - 95% wdrożeń AI kończy się porażką
+     - **Firma finansowa Warszawa** - skrócenie procesu z 48h do 15 min przez przeprojektowanie procesu wokół AI
 
-4. **Utworzenie 3 gotowych post�w** z weryfikowalnymi zr�dBami:
-   - **POST A - EXDROG:** Weryfikowalny case polskiej firmy (mycompanypolska.pl, Krakowski ZDW, JarosBaw Sroka)
+4. **Utworzenie 3 gotowych postów** z weryfikowalnymi źródłami:
+   - **POST A - EXDROG:** Weryfikowalny case polskiej firmy (mycompanypolska.pl, Krakowski ZDW, Jarosław Sroka)
    - **POST B - STATYSTYKI:** Raport MIT "The GenAI Divide: State of AI in Business 2025"
    - **POST C - SUKCES:** Firma finansowa z Warszawy (raport EY Polska 2024 + badanie McKinsey)
 
-### = Kluczowe learningi
+### 💡 Kluczowe learningi
 
-1. **Weryfikowalno[ > storytelling** - U|ytkownik w fazie Aucznik priorytetowo traktuje wiarygodno[. Lepiej odrzuci ciekawy przykBad ni| zaryzykowa utrat zaufania.
+1. **Weryfikowalność > storytelling** - Użytkownik w fazie Łucznik priorytetowo traktuje wiarygodność. Lepiej odrzucić ciekawy przykład niż zaryzykować utratę zaufania.
 
-2. **ZBamanie wBasnej zasady** - Pierwszy draft u|ywaB metafory "Trabant/Ferrari" z PostyUdostepnione.md, co naruszaBo reguB z CLAUDE.md:
-   - L NIE WOLNO kopiowa konkretnych zwrot�w i metafor
-   -  NAZLADUJ TYLKO styl, struktur, ton
-   - **Poprawiono:** Zamieniono na nowe metafory (budowa domu, GPS wymy[lajcy ulice, budowa mostu)
+2. **Złamanie własnej zasady** - Pierwszy draft używał metafory "Trabant/Ferrari" z PostyUdostepnione.md, co naruszało regułę z CLAUDE.md:
+   - 🔴 NIE WOLNO kopiować konkretnych zwrotów i metafor
+   - 🦜 NAŚLADUJ TYLKO styl, strukturę, ton
+   - **Poprawiono:** Zamieniono na nowe metafory (budowa domu, GPS wymyślający ulice, budowa mostu)
 
-3. **Systematyczne podej[cie do research:**
-   - WebSearch � WebFetch � weryfikacja zr�deB
-   - Odrzucanie anonimowych przykBad�w
-   - Priorytet: polskie firmy > zagraniczy + konkretne dane > og�lniki
+3. **Systematyczne podejście do research:**
+   - WebSearch -> WebFetch -> weryfikacja źródeł
+   - Odrzucanie anonimowych przykładów
+   - Priorytet: polskie firmy > zagraniczne + konkretne dane > ogólniki
 
-### =� Rezultat
+### 📤 Rezultat
 
 **3 gotowe posty** zapisane w folderze `posty_do_review/`:
-- Ka|dy ~1100-1150 znak�w (zgodnie z limitami)
-- Format "Czy wiedziaBe[, |e...?" + 3 fakty + metafora + CTA
-- Weryfikowalne zr�dBa
-- Dopasowane do persony Marek + faza Aucznik
+- Każdy ~1100-1150 znaków (zgodnie z limitami)
+- Format "Czy wiedziałeś, że...?" + 3 fakty + metafora + CTA
+- Weryfikowalne źródła
+- Dopasowane do persony Marek + faza Łucznik
 
-### � Uwagi na przyszBo[
+### ⚠️ Uwagi na przyszłość
 
-1. **Proces weryfikacji** - U|ytkownik rozpoczyna od weryfikacji post�w przed publikacj ([wietna praktyka!)
-2. **Unikaj recyklingu metafor** - Zawsze tw�rz NOWE metafory w stylu przykBad�w, nie kopiuj tre[ci
-3. **AI vs ERP** - Zwracaj uwag na r�|nic midzy AI/automatyzacj a systemami ERP/SAP
-
----
+1. **Proces weryfikacji** - Użytkownik rozpoczyna od weryfikacji postów przed publikacją (świetna praktyka!)
+2. **Unikaj recyklingu metafor** - Zawsze twórz NOWE metafory w stylu przykładów, nie kopiuj treści
+3. **AI vs ERP** - Zwracaj uwagę na różnicę między AI/automatyzacją a systemami ERP/SAP
