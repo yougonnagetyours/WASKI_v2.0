@@ -1,5 +1,57 @@
 # 📂 Historia sesji - Notatki i zmiany
 
+## 📅 Sesja #2 - 2025-01-18
+
+### 🎯 Cel sesji
+Przerobienie treści landing page dla 7-dniowego smoke testu, aby pasowała do stylu komunikacji i idealnej persony (Marek - właściciel agencji).
+
+### ✅ Co zostało zrobione
+
+1. **Analiza materiałów wejściowych**
+   - Przeanalizowano brief landing page od "Siary" (asystenta biznesowego)
+   - Sprawdzono dopasowanie do idealnej persony z `MojaIdealnaPersona.md`
+   - Zidentyfikowano kluczowe pain points Marka (marża spada, chaos przy skalowaniu, zależność od ludzi)
+
+2. **Przerobienie treści landing page**
+   - **Hero:** Zmieniono z ogólnika "Automatyzacja w 7 dni" na konkretny problem: "Doszedłeś do ściany?"
+   - **Sekcja Problem:** Użyto konkretnych pain points z persony (20% czasu na raporty, marża spada mimo wzrostu przychodów, urlop = chaos)
+   - **Sekcja Rozwiązanie:** Dodano język persony ("Pokaże Ci w Excelu", ROI, EBITDA)
+   - **Dla kogo:** Precyzyjny opis sytuacji Marka (10-25 osób, myśli systemami, chce skalować)
+   - **Obiekcje (FAQ):** Dodano sekcję z typowymi obiekcjami i kontr-argumentami wprost z pliku persony
+   - **Ton ogólny:** Z korporacyjnego na naturalny, konkretny, bez marketingowego bełkotu
+
+3. **Iteracja nagłówka Hero**
+   - Testowano kilka wersji z użytkownikiem:
+     - ❌ "Przestań zatrudniać ludzi do gaszenia pożarów" - odrzucone (nienaturalne)
+     - ✅ "Więcej klientów, ale marża spada? Doszedłeś do ściany." - zaakceptowane
+   - Finalna wersja podnagłówka: "Pokażę Ci w 30 minut, które procesy zjadają Twoją marżę – i jak odzyskać kontrolę nad firmą."
+
+4. **Zapisanie dwóch wersji**
+   - **Oryginał:** `landing_page.md` (od Siary) - zostaje jako wersja robocza na smoke test
+   - **Przerobiona:** `landing_page_przerobiony.md` - backup na wypadek, gdyby oryginał nie działał
+
+### 💡 Kluczowe learningi
+
+1. **Język persony = klucz** - Użycie konkretnych zwrotów z persony ("Pokaże Ci w Excelu", "EBITDA", "system operacyjny firmy") natychmiast zwiększa autentyczność
+
+2. **Prostota > brzmiące mądrze** - Frazy typu "a zostawiają sobie mniej" czy "przestań zatrudniać ludzi do gaszenia pożarów" brzmią sztucznie. Lepiej: "marża spada", "procesy zjadają marżę"
+
+3. **A/B testing w praktyce** - Użytkownik podchodzi pragmatycznie: testy oryginał vs przerobiona wersja w realnym smoke teście, a nie teoretyzowanie
+
+### 📤 Rezultat
+
+**2 wersje landing page** zapisane w `baza_wiedzy/SmokeTestAssets/`:
+- `landing_page.md` - oryginał (wersja do smoke testu)
+- `landing_page_przerobiony.md` - dopasowana do persony (backup na przyszłość)
+
+### ⚠️ Uwagi na przyszłość
+
+1. **Testowanie hipotez** - Użytkownik świadomie wybiera pragmatyczne podejście: najpierw test oryginału, potem ewentualna optymalizacja
+2. **Unikaj "marketingowego języka"** - Frazy, które brzmią jak z szablonu landing page'a, są odrzucane
+3. **Konkret > metafora** - W landing page'u liczy się bezpośredni problem i jego rozwiązanie, nie poetyckie opisy
+
+---
+
 ## 📅 Sesja #1 - 2025-01-14
 
 ### 🎯 Cel sesji
