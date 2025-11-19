@@ -1,5 +1,44 @@
 # 📂 Historia sesji - Notatki i zmiany
 
+## 📅 Sesja #3 - 2025-11-19
+
+### 🎯 Cel sesji
+Dopracowanie i sformatowanie posta LinkedIn z pliku `baza_wiedzy/posty+cytowanie_ze_zrodeł/95% wdrożeń AI w firmach kończy się porażką.md` zgodnie z wytycznymi użytkownika oraz przygotowanie koncepcji grafiki.
+
+### ✅ Co zostało zrobione
+
+1.  **Refinement treści posta:**
+    *   Zmieniono frazę "To, czego się z tego uczę:" na "To tylko potwierdza moje doświadczenia z optymalizacji procesów:", aby lepiej odzwierciedlić osobiste doświadczenia użytkownika.
+    *   Zmieniono "AI to nie jest kolejny zakup w budżecie IT." na "AI to nie jest kolejny zakup w budżecie firmy.", aby uogólnić kontekst budżetu.
+    *   Poprawiono niespójność gramatyczną w pytaniu "Kupujecie narzędzia, czy zmieniają całą organizację?" na "Kupujecie narzędzia, czy zmieniacie całą organizację?".
+
+2.  **Formatowanie posta dla LinkedIn:**
+    *   Usunięto metainformacje takie jak `=== POST LINKEDIN ===`, `📊 POST - STATYSTYKI (z weryfikowalnymi źródłami)`.
+    *   Usunięto wszystkie separatory `---` z głównej treści posta, zastępując je podwójnymi znakami nowej linii, aby poprawić czytelność i estetykę na LinkedIn.
+    *   Usunięto całą sekcję samooceny (`=== SAMOOCENA ===` i jej zawartość), ponieważ jest to informacja wewnętrzna, a nie część publikowanego posta.
+    *   Usunięto całą sekcję "Aneks" wraz z poprzedzającym ją separatorem `---`, ponieważ nie jest to część właściwego posta na LinkedIn.
+
+3.  **Koncepcje grafiki:**
+    *   Zaproponowano dwie koncepcje grafiki do posta, wraz z gotowymi promptami do zewnętrznych narzędzi AI do generowania obrazów:
+        *   Koncepcja 1: Metafora z warsztatem (narzędzia vs. zespół)
+        *   Koncepcja 2: Statystyka w centrum (duże "95%" z efektem pęknięcia)
+    *   Zalecono Koncepcję 1 jako bardziej pasującą do stylu komunikacji użytkownika.
+
+### 💡 Kluczowe learningi
+
+1.  **Precyzja w `replace`:** Konieczność używania dokładnego kontekstu w `old_string` dla narzędzia `replace`, aby uniknąć niezamierzonych modyfikacji lub błędów spowodowanych wielokrotnym występowaniem tego samego ciągu znaków.
+2.  **Holistyczne formatowanie:** Oprócz konkretnych poprawek językowych, ważne jest usunięcie wszystkich metainformacji i dostosowanie formatowania (np. usunięcie `---`) do specyfiki platformy docelowej (LinkedIn).
+3.  **Proaktywne wsparcie:** Mimo braku narzędzi do generowania obrazów, można zaoferować wartościowe wsparcie poprzez tworzenie koncepcji i promptów dla zewnętrznych narzędzi.
+
+### 📤 Rezultat
+Post został w pełni dopracowany i sformatowany do publikacji na LinkedIn. Użytkownik otrzymał również propozycje grafik z promptami.
+
+### ⚠️ Uwagi na przyszłość
+*   Zawsze dokładnie weryfikować cały plik po każdej serii zmian, aby upewnić się, że żadne elementy formatowania nie zostały przeoczone.
+*   Pamiętać o rozróżnieniu między treścią posta a metainformacjami/sekcjami pomocniczymi.
+
+---
+
 ## 📅 Sesja #2 - 2025-01-18
 
 ### 🎯 Cel sesji
